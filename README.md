@@ -198,3 +198,7 @@ O funcionamento dessas integrações depende de disponibilidade, limites, termos
 ## Observação metodológica
 
 As classificações automáticas representam uma triagem técnica baseada em evidências públicas encontradas na web. Elas não constituem prova jurídica ou confirmação definitiva de produção de hidrogênio. Os resultados devem ser revisados antes de uso acadêmico, institucional ou decisório.
+
+## Licença
+
+O código-fonte deste projeto é disponibilizado sob a Licença MIT. Os dados provenientes de terceiros permanecem sujeitos aos respectivos termos, licenças e condições de uso de suas fontes originais.
