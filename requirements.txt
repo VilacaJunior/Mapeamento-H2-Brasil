@@ -1,0 +1,10 @@
+requests
+duckdb
+pandas
+openpyxl
+google-genai
+pydantic
+crawl4ai
+streamlit
+pydeck
+tzdata; platform_system == "Windows"
