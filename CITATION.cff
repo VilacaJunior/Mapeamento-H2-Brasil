@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software, cite-o conforme as informações abaixo."
+title: "Mapeamento das Plantas de Hidrogênio e Oportunidades no Brasil"
+type: software
+authors:
+  - family-names: "Vilaça Júnior"
+    given-names: "Fábio Campos Ferreira"
+    affiliation: "Universidade Federal de Goiás"
+version: 1.0.0
+date-released: 2026-08-22
+repository-code: "https://github.com/VilacaJunior/Mapeamento-H2-Brasil"
+url: "https://github.com/VilacaJunior/Mapeamento-H2-Brasil"
+license: MIT
+keywords:
+  - hidrogênio
+  - H2
+  - Brasil
+  - análise de dados
+  - geoprocessamento
+  - Receita Federal
+  - Python
+identifiers:
+  - type: other
+    value: "PI07934-2024"
+    description: "Código institucional da pesquisa na Universidade Federal de Goiás"
+abstract: >-
+  Pipeline para identificação, análise e mapeamento de empresas e plantas
+  potencialmente relacionadas à produção de hidrogênio no Brasil, utilizando
+  dados públicos, pesquisa na web, inteligência artificial assistiva,
+  complementação geográfica e visualização interativa.
