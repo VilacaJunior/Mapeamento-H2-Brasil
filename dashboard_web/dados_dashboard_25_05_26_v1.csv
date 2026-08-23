@@ -1,0 +1,371 @@
+﻿cnpj;output;relacao;cep;uf;municipio;polo_mais_proximo;tipo_polo;distancia_min_km;lat;lon;fonte_geo;cidade_geo;uf_geo;observacao_geo;Veredito
+60619202001896;talvez;80km;57080010;AL;2785;Marechal Deodoro/AL;quimico_cloroquimico;20.54;-9.6072858;-35.7392996;Nominatim/OpenStreetMap;Maceió;AL;;Sem Relação
+60619202000490;talvez;CTF_APP;78098370;MT;9067;Uberaba/MG;fertilizantes_quimico;964.58;-15.6689542;-55.9789708;Nominatim/OpenStreetMap;Cuiabá;MT;;Não Planta
+00331788004530;talvez;80km;23570000;RJ;6001;Santa Cruz/Ternium/RJ;siderurgia;6.86;-22.8952259;-43.7398158;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Potencial Planta
+35820448019317;talvez;CTF_APP e 80km;13505645;SP;6979;Paulínia/REPLAN/SP;refino_petroquimico;55.96;-22.4100108;-47.5603933;Nominatim/OpenStreetMap;Rio Claro;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+43843358003023;talvez;CTF_APP;18278725;SP;7181;Paulínia/REPLAN/SP;refino_petroquimico;100.31;-23.3489848;-47.8490165;Nominatim/OpenStreetMap;Tatuí;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+00331788005773;talvez;CTF_APP;71225526;DF;9701;Uberaba/MG;fertilizantes_quimico;439.6;-15.7939869;-47.8828;Nominatim/OpenStreetMap;Brasília;DF;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+00331788006230;talvez;CTF_APP;17034290;SP;6219;Paulínia/REPLAN/SP;refino_petroquimico;198.27;-22.3084896;-49.0140402;Nominatim/OpenStreetMap;Bauru;SP;;Não Planta
+60619202002272;talvez;CTF_APP e 80km;42816140;BA;3413;Camaçari/BA;petroquimico;3.35;-12.6674855;-38.3148858;Nominatim/OpenStreetMap;Camaçari;BA;;Potencial Planta
+24380578005903;talvez;CTF_APP;79602970;MS;9165;Uberaba/MG;fertilizantes_quimico;408.82;-20.7917299;-51.6969291;Nominatim/OpenStreetMap;Três Lagoas;MS;;Não Planta
+35820448021303;talvez;CTF_APP e 80km;13288172;SP;7237;Paulínia/REPLAN/SP;refino_petroquimico;37.49;-23.0298535;-46.9749847;Nominatim/OpenStreetMap;Vinhedo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448022024;talvez;CTF_APP e 80km;38490000;MG;4613;Uberaba/MG;fertilizantes_quimico;78.74;-19.0391972;-47.9178436;Nominatim/OpenStreetMap;Indianópolis;MG;;Potencial Planta
+45829243000175;talvez;;36052590;MG;4733;Duque de Caxias/REDUC/RJ;refino_petroquimico;106.93;-21.7609533;-43.3501129;Nominatim/OpenStreetMap;Juiz de Fora;MG;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+54443328000101;talvez;;64200970;PI;1153;Pecém/CE;porto_industrial;335.57;-2.9147515;-41.7661953;Nominatim/OpenStreetMap;Parnaíba;PI;Coordenada aproximada pelo município, não pelo CEP exato.;Conceito de Planta
+00331788010939;talvez;80km;42813760;BA;3413;Camaçari/BA;petroquimico;0.48;-12.6998188;-38.3260762;Nominatim/OpenStreetMap;Camaçari;BA;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+00331788000623;talvez;CTF_APP e 80km;26110100;RJ;2909;Duque de Caxias/REDUC/RJ;refino_petroquimico;10.56;-22.7601914;-43.3659542;Nominatim/OpenStreetMap;Belford Roxo;RJ;;Potencial Planta
+35820448006410;talvez;CTF_APP e 80km;95840000;RS;8943;Triunfo/RS;petroquimico;32.83;-29.9407972;-51.7191859;Nominatim/OpenStreetMap;Triunfo;RS;;Potencial Planta
+35820448010360;talvez;CTF_APP e 80km;13212240;SP;6619;Paulínia/REPLAN/SP;refino_petroquimico;57.43;-23.1887668;-46.884506;Nominatim/OpenStreetMap;Jundiaí;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448015915;talvez;CTF_APP e 80km;13473625;SP;6131;Paulínia/REPLAN/SP;refino_petroquimico;19.79;-22.7392463;-47.3306032;Nominatim/OpenStreetMap;Americana;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448017454;talvez;CTF_APP e 80km;11573900;SP;6371;Cubatão/SP;industrial_siderurgico;1.64;-23.8842077;-46.4213061;Nominatim/OpenStreetMap;Cubatão;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+02605266000355;talvez;CTF_APP e 80km;29092300;ES;5705;Serra/Tubarão/ES;siderurgia_portuario;2.26;-20.2539254;-40.2434751;Nominatim/OpenStreetMap;Vitória;ES;;Potencial Planta
+24380578000260;talvez;CTF_APP e 80km;57055000;AL;2785;Marechal Deodoro/AL;quimico_cloroquimico;18.91;-9.6500548;-35.7335597;Nominatim/OpenStreetMap;Maceió;AL;;Potencial Planta
+67423152000178;talvez;CTF_APP e 80km;13213009;SP;6619;Paulínia/REPLAN/SP;refino_petroquimico;53.41;-23.1700183;-46.9339034;Nominatim/OpenStreetMap;Jundiaí;SP;;Relação
+24380578004176;talvez;CTF_APP e 80km;49170000;SE;3171;Laranjeiras/SE;fertilizantes_amonia;0.36;-10.8040231;-37.1658336;Nominatim/OpenStreetMap;Laranjeiras;SE;;Potencial Planta
+24380578000936;talvez;CTF_APP e 80km;42810000;BA;3413;Camaçari/BA;petroquimico;0.15;-12.6975;-38.32417;BrasilAPI CEP v2;Camaçari;BA;;Potencial Planta
+34597955002648;talvez;CTF_APP e 80km;68448000;PA;425;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;3.0;-1.5679371;-48.7582826;Nominatim/OpenStreetMap;Barcarena;PA;;Potencial Planta
+35820448003909;talvez;CTF_APP;38402324;MG;5403;Uberaba/MG;fertilizantes_quimico;98.68;-18.9188041;-48.2767837;Nominatim/OpenStreetMap;Uberlândia;MG;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+60619202001624;talvez;CTF_APP e 80km;32210120;MG;4371;Barreiro/BH/MG;industrial_metalurgico;3.3;-19.9619472;-44.0301284;Nominatim/OpenStreetMap;Contagem;MG;;Potencial Planta
+35820448009940;talvez;CTF_APP e 80km;13412201;SP;6875;Paulínia/REPLAN/SP;refino_petroquimico;52.44;-22.725165;-47.6493269;Nominatim/OpenStreetMap;Piracicaba;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448019821;talvez;CTF_APP;79600001;MS;9165;Uberaba/MG;fertilizantes_quimico;409.63;-20.7807415;-51.7082832;Nominatim/OpenStreetMap;Três Lagoas;MS;;Não Planta
+00331788006150;talvez;CTF_APP;15076080;SP;7097;Uberaba/MG;fertilizantes_quimico;190.42;-20.8255786;-49.357103;Nominatim/OpenStreetMap;São José do Rio Preto;SP;;Não Planta
+43843358003457;talvez;CTF_APP;12523671;SP;6469;Jacareí/SP;gases_industriais;96.72;-22.8057839;-45.1908926;Nominatim/OpenStreetMap;Guaratinguetá;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Planta
+24380578006543;talvez;CTF_APP;55900000;PE;2423;Suape/PE;porto_industrial;93.2;-7.560603;-34.99591;Nominatim/OpenStreetMap;Goiana;PE;;Não Planta
+35820448020676;talvez;CTF_APP e 80km;08613370;SP;7151;ABC/Capuava/SP;petroquimico_industrial;23.38;-23.5392716;-46.2821069;Nominatim/OpenStreetMap;Suzano;SP;;Potencial Planta
+35820448021052;talvez;CTF_APP;79641300;MS;9165;Uberaba/MG;fertilizantes_quimico;409.34;-20.78765;-51.70338;BrasilAPI CEP v2;Três Lagoas;MS;;Não Planta
+74481011000681;talvez;CTF_APP e 80km;81460040;PR;7535;Araucária/REPAR/PR;refino;22.09;-25.4295963;-49.2712724;Nominatim/OpenStreetMap;Curitiba;PR;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+35820448022458;talvez;CTF_APP e 80km;93700000;RS;8577;Canoas/REFAP/RS;refino;29.07;-29.6748486;-51.0562824;Nominatim/OpenStreetMap;;;;Potencial Planta
+00331788003487;talvez;CTF_APP;37905000;MG;4525;Uberaba/MG;fertilizantes_quimico;177.17;-20.849166;-46.712222;Nominatim/OpenStreetMap;Fortaleza de Minas;MG;;Não Planta
+24380578002203;talvez;CTF_APP e 80km;54503410;PE;2357;Suape/PE;porto_industrial;14.96;-8.2838945;-35.0320984;Nominatim/OpenStreetMap;Cabo de Santo Agostinho;PE;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+34597955000785;talvez;CTF_APP;78098280;MT;9067;Uberaba/MG;fertilizantes_quimico;966.36;-15.6558653;-55.9903727;Nominatim/OpenStreetMap;Cuiabá;MT;;Não Planta
+34597955001595;talvez;CTF_APP;76821220;RO;3;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1856.07;-8.7346367;-63.8815811;Nominatim/OpenStreetMap;Porto Velho;RO;;Não Planta
+35820448002341;talvez;CTF_APP;74655030;GO;9373;Uberaba/MG;fertilizantes_quimico;368.11;-16.680882;-49.2532691;Nominatim/OpenStreetMap;Goiânia;GO;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448009869;talvez;CTF_APP e 80km;09270000;SP;7057;ABC/Capuava/SP;petroquimico_industrial;2.36;-23.6477685;-46.4889163;Nominatim/OpenStreetMap;Santo André;SP;;Potencial Planta
+35820448010794;talvez;CTF_APP;89206001;SC;8179;Araucária/REPAR/PR;refino;98.1;-26.2907587;-48.8127987;Nominatim/OpenStreetMap;Joinville;SC;;Não Planta
+35820448011766;talvez;CTF_APP e 80km;92420360;RS;8589;Canoas/REFAP/RS;refino;1.11;-29.9216045;-51.1799525;Nominatim/OpenStreetMap;Canoas;RS;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448014277;talvez;80km;06230100;SP;6789;ABC/Capuava/SP;petroquimico_industrial;36.67;-23.5182184;-46.7949055;Nominatim/OpenStreetMap;Osasco;SP;;Não Planta
+43843358002132;talvez;CTF_APP;89240000;SC;8319;Araucária/REPAR/PR;refino;109.03;-26.2337732;-48.5852229;Nominatim/OpenStreetMap;;;;Potencial Planta
+67423152000330;talvez;CTF_APP e 80km;12042025;SP;7183;Jacareí/SP;gases_industriais;47.31;-23.0410846;-45.6020087;Nominatim/OpenStreetMap;Taubaté;SP;;Relação
+60619202000148;talvez;80km;06455911;SP;6213;ABC/Capuava/SP;petroquimico_industrial;44.6;-23.5112184;-46.8764612;Nominatim/OpenStreetMap;Barueri;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448005448;talvez;CTF_APP;86067090;PR;7667;Araucária/REPAR/PR;refino;314.29;-23.2937127;-51.219485;Nominatim/OpenStreetMap;Londrina;PR;;Não Planta
+60619202005450;talvez;CTF_APP e 80km;27970020;RJ;5847;Macaé/RJ;oleo_gas;23.25;-22.2828305;-41.9649091;Nominatim/OpenStreetMap;Macaé;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+00331788001603;talvez;CTF_APP e 80km;13069472;SP;6291;Paulínia/REPLAN/SP;refino_petroquimico;21.33;-22.9056391;-47.059564;Nominatim/OpenStreetMap;Campinas;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448015591;talvez;CTF_APP e 80km;35160291;MG;4625;Vale do Aço/MG;siderurgia;3.66;-19.4902958;-42.5617288;Nominatim/OpenStreetMap;Ipatinga;MG;;Potencial Planta
+24380578005300;talvez;CTF_APP;45930000;BA;3741;Serra/Tubarão/ES;siderurgia_portuario;252.19;-18.0864709;-39.5512819;Nominatim/OpenStreetMap;Mucuri;BA;;Não Planta
+00331788004882;talvez;CTF_APP e 80km;09015901;SP;7057;ABC/Capuava/SP;petroquimico_industrial;4.74;-23.6610279;-46.5165733;Nominatim/OpenStreetMap;Santo André;SP;;Potencial Planta
+17352435000106;talvez;80km;24858088;RJ;5837;Duque de Caxias/REDUC/RJ;refino_petroquimico;34.59;-22.7746896;-42.9406905;Nominatim/OpenStreetMap;Itaboraí;RJ;;Sem Relação
+74481011000762;talvez;CTF_APP;88390000;SC;8041;Araucária/REPAR/PR;refino;136.85;-26.6338203;-48.6835001;Nominatim/OpenStreetMap;Barra Velha;SC;;Relação
+00331788001786;talvez;CTF_APP e 80km;13140031;SP;6831;Paulínia/REPLAN/SP;refino_petroquimico;3.39;-22.7524179;-47.1578238;Nominatim/OpenStreetMap;Paulínia;SP;;Planta
+00331788003134;talvez;CTF_APP e 80km;32250010;MG;4371;Barreiro/BH/MG;industrial_metalurgico;11.01;-19.9132749;-44.0840953;Nominatim/OpenStreetMap;Contagem;MG;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+24380578002475;talvez;CTF_APP;64027462;PI;1219;Pecém/CE;porto_industrial;475.82;-5.1438012;-42.7939229;Nominatim/OpenStreetMap;Teresina;PI;;Não Planta
+24380578004338;talvez;CTF_APP e 80km;42816180;BA;3413;Camaçari/BA;petroquimico;2.48;-12.6740791;-38.3237111;Nominatim/OpenStreetMap;Camaçari;BA;;Potencial Planta
+34597955001242;talvez;CTF_APP;68508020;PA;483;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;424.65;-5.3462821;-49.1007401;Nominatim/OpenStreetMap;Marabá;PA;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448004638;talvez;CTF_APP;36092901;MG;4733;Volta Redonda/CSN/RJ;siderurgia;119.66;-21.6420894;-43.4369601;Nominatim/OpenStreetMap;Juiz de Fora;MG;;Não Planta
+35820448006339;talvez;CTF_APP e 80km;93212220;RS;8901;Canoas/REFAP/RS;refino;9.49;-29.8271789;-51.172522;Nominatim/OpenStreetMap;Sapucaia do Sul;RS;;Potencial Planta
+43843358001322;talvez;CTF_APP;88535000;SC;8395;Araucária/REPAR/PR;refino;241.9;-27.587688;-50.361448;Nominatim/OpenStreetMap;Correia Pinto;SC;;Potencial Planta
+60619202007231;talvez;CTF_APP e 80km;35180001;MG;5373;Vale do Aço/MG;siderurgia;16.57;-19.5771395;-42.6436108;Nominatim/OpenStreetMap;Timóteo;MG;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+00331788003649;talvez;CTF_APP;74993530;GO;9227;Uberaba/MG;fertilizantes_quimico;353.2;-16.8226769;-49.2452546;Nominatim/OpenStreetMap;Aparecida de Goiânia;GO;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448012657;talvez;CTF_APP;39404620;MG;4865;Vale do Aço/MG;siderurgia;338.97;-16.6916728;-43.8604969;Nominatim/OpenStreetMap;Montes Claros;MG;;Não Planta
+00331788000380;talvez;CTF_APP e 80km;08686000;SP;7151;ABC/Capuava/SP;petroquimico_industrial;20.81;-23.5427842;-46.3108391;Nominatim/OpenStreetMap;Suzano;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+00331788000704;talvez;CTF_APP e 80km;13212240;SP;6619;Paulínia/REPLAN/SP;refino_petroquimico;57.43;-23.1887668;-46.884506;Nominatim/OpenStreetMap;Jundiaí;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+67423152000844;talvez;CTF_APP;15035210;SP;7097;Uberaba/MG;fertilizantes_quimico;191.42;-20.8125851;-49.3804212;Nominatim/OpenStreetMap;São José do Rio Preto;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+35820448019074;talvez;CTF_APP e 80km;96745000;RS;8693;Triunfo/RS;petroquimico;24.6;-29.9549088;-51.6249534;Nominatim/OpenStreetMap;Charqueadas;RS;;Potencial Planta
+24380578005814;talvez;80km;42850000;BA;3087;Camaçari/BA;petroquimico;9.78;-12.6107233;-38.3028518;Nominatim/OpenStreetMap;Dias D'Ávila;BA;;Potencial Planta
+00331788004963;talvez;CTF_APP e 80km;12241420;SP;7099;Jacareí/SP;gases_industriais;15.46;-23.1867782;-45.8854538;Nominatim/OpenStreetMap;São José dos Campos;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+00331788008365;talvez;CTF_APP e 80km;67120370;PA;415;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;42.72;-1.374035;-48.4016623;Nominatim/OpenStreetMap;Ananindeua;PA;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+00331788007717;talvez;CTF_APP;84350000;PR;7727;Araucária/REPAR/PR;refino;216.79;-24.2088891;-50.925043;Nominatim/OpenStreetMap;Ortigueira;PR;;Não Planta
+24380578006110;talvez;;71200030;DF;9701;Uberaba/MG;fertilizantes_quimico;439.6;-15.7939869;-47.8828;Nominatim/OpenStreetMap;Brasília;DF;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+28606961000163;talvez;;58884000;PB;1987;Pecém/CE;porto_industrial;331.97;-6.340625;-37.746967;Nominatim/OpenStreetMap;Catolé do Rocha;PB;;Sem Relação
+35820448021990;talvez;CTF_APP;18685900;SP;6637;Paulínia/REPLAN/SP;refino_petroquimico;171.42;-22.6029897;-48.8031367;Nominatim/OpenStreetMap;Lençóis Paulista;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+00331788000119;talvez;80km;04703901;SP;7107;ABC/Capuava/SP;petroquimico_industrial;24.0;-23.6200076;-46.7014934;Nominatim/OpenStreetMap;São Paulo;SP;;Não Planta
+00331788001948;talvez;CTF_APP e 80km;07220080;SP;6477;ABC/Capuava/SP;petroquimico_industrial;22.19;-23.4675941;-46.5277704;Nominatim/OpenStreetMap;Guarulhos;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448001884;talvez;CTF_APP;71200030;DF;9701;Uberaba/MG;fertilizantes_quimico;439.6;-15.7939869;-47.8828;Nominatim/OpenStreetMap;Brasília;DF;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448009516;talvez;CTF_APP;17034480;SP;6219;Paulínia/REPLAN/SP;refino_petroquimico;203.52;-22.3173803;-49.0689778;Nominatim/OpenStreetMap;Bauru;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448016644;talvez;80km;09380435;SP;6689;ABC/Capuava/SP;petroquimico_industrial;1.15;-23.6669527;-46.4616922;Nominatim/OpenStreetMap;Mauá;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448017969;talvez;CTF_APP e 80km;29160904;ES;5699;Serra/Tubarão/ES;siderurgia_portuario;14.74;-20.1252961;-40.3064477;Nominatim/OpenStreetMap;Serra;ES;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448018000;talvez;80km;29197551;ES;5611;Serra/Tubarão/ES;siderurgia_portuario;47.54;-19.8245218;-40.2735025;Nominatim/OpenStreetMap;Aracruz;ES;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448018183;talvez;CTF_APP e 80km;29140080;ES;5625;Serra/Tubarão/ES;siderurgia_portuario;13.84;-20.3404763;-40.3583975;Nominatim/OpenStreetMap;Cariacica;ES;;Potencial Planta
+60619202003597;talvez;CTF_APP e 80km;81270010;PR;7535;Araucária/REPAR/PR;refino;15.55;-25.4523972;-49.3647163;Nominatim/OpenStreetMap;Curitiba;PR;;Potencial Planta
+67423152000763;talvez;CTF_APP e 80km;54520600;PE;2357;Suape/PE;porto_industrial;14.44;-8.28773;-35.02925;BrasilAPI CEP v2;Cabo de Santo Agostinho;PE;;Relação
+60619202001209;talvez;CTF_APP e 80km;54335000;PE;2457;Suape/PE;porto_industrial;25.05;-8.1735122;-34.9413004;Nominatim/OpenStreetMap;Jaboatão dos Guararapes;PE;;Potencial Planta
+00331788002162;talvez;CTF_APP e 80km;43721445;BA;3913;Camaçari/BA;petroquimico;13.25;-12.7867839;-38.4030365;Nominatim/OpenStreetMap;Simões Filho;BA;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+34597955001323;talvez;CTF_APP e 80km;66820000;PA;427;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;41.18;-1.3174748;-48.4532104;Nominatim/OpenStreetMap;Belém;PA;;Potencial Planta
+35820448013548;talvez;CTF_APP e 80km;35930395;MG;4723;João Monlevade/MG;siderurgia;4.2;-19.81989;-43.1336883;Nominatim/OpenStreetMap;João Monlevade;MG;;Potencial Planta
+00331788002324;talvez;CTF_APP e 80km;04220002;SP;7107;ABC/Capuava/SP;petroquimico_industrial;13.7;-23.59834;-46.5864426;Nominatim/OpenStreetMap;São Paulo;SP;;Potencial Planta
+35820448004476;talvez;CTF_APP e 80km;35960000;MG;5143;João Monlevade/MG;siderurgia;30.18;-19.959444;-43.415278;Nominatim/OpenStreetMap;Santa Bárbara;MG;;Potencial Planta
+60619202002515;talvez;CTF_APP;14165428;SP;7135;Uberaba/MG;fertilizantes_quimico;154.72;-21.1375782;-47.9913741;Nominatim/OpenStreetMap;Sertãozinho;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+00331788002758;talvez;CTF_APP e 80km;92320110;RS;8589;Canoas/REFAP/RS;refino;1.51;-29.9253116;-51.185977;Nominatim/OpenStreetMap;Canoas;RS;;Potencial Planta
+35820448014005;talvez;CTF_APP e 80km;27211130;RJ;5925;Volta Redonda/CSN/RJ;siderurgia;4.08;-22.4910404;-44.0845487;Nominatim/OpenStreetMap;Volta Redonda;RJ;;Potencial Planta
+35820448008544;talvez;80km;13064798;SP;6291;Paulínia/REPLAN/SP;refino_petroquimico;21.33;-22.9056391;-47.059564;Nominatim/OpenStreetMap;Campinas;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+10590049000103;talvez;;19913520;SP;6795;Paulínia/REPLAN/SP;refino_petroquimico;281.13;-22.9777918;-49.868204;Nominatim/OpenStreetMap;Ourinhos;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+35820448019589;talvez;CTF_APP e 80km;35498000;MG;4707;Ouro Branco/MG;siderurgia;29.94;-20.5353816;-43.983346;Nominatim/OpenStreetMap;Jeceaba;MG;;Potencial Planta
+00331788006311;talvez;CTF_APP;65919050;MA;803;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;460.83;-5.4957915;-47.4961761;Nominatim/OpenStreetMap;Imperatriz;MA;;Não Planta
+35820448020242;talvez;CTF_APP e 80km;30640010;MG;4123;Barreiro/BH/MG;industrial_metalurgico;1.56;-19.9740877;-44.0130783;Nominatim/OpenStreetMap;Belo Horizonte;MG;;Potencial Planta
+35820448020595;talvez;;88820000;SC;8137;Canoas/REFAP/RS;refino;225.69;-28.7129603;-49.3048148;Nominatim/OpenStreetMap;;;;Não Planta
+74481011000410;talvez;CTF_APP;88850000;SC;973;Canoas/REFAP/RS;refino;210.2;-28.7487602;-49.4737661;Nominatim/OpenStreetMap;Forquilhinha;SC;;Relação
+00331788006079;talvez;CTF_APP;88104790;SC;8327;Araucária/REPAR/PR;refino;238.02;-27.6199749;-48.6542166;Nominatim/OpenStreetMap;São José;SC;;Não Planta
+00331788002405;talvez;CTF_APP e 80km;54503010;PE;2357;Suape/PE;porto_industrial;14.96;-8.2838945;-35.0320984;Nominatim/OpenStreetMap;Cabo de Santo Agostinho;PE;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+24380578000421;talvez;CTF_APP e 80km;41230200;BA;3849;Mataripe/Candeias/BA;refino_petroquimico;32.2;-12.9822499;-38.4812772;Nominatim/OpenStreetMap;Salvador;BA;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+02605266000193;talvez;80km;06455911;SP;6213;ABC/Capuava/SP;petroquimico_industrial;44.6;-23.5112184;-46.8764612;Nominatim/OpenStreetMap;Barueri;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448010018;talvez;CTF_APP e 80km;12305900;SP;6589;Jacareí/SP;gases_industriais;3.74;-23.2784046;-45.9426381;BrasilAPI CEP v2;Jacareí;SP;;Planta
+35820448013700;talvez;CTF_APP;35502287;MG;4445;Barreiro/BH/MG;industrial_metalurgico;87.42;-20.1247457;-44.8391674;Nominatim/OpenStreetMap;Divinópolis;MG;;Não Planta
+43843358000946;talvez;CTF_APP e 80km;30668273;MG;4123;Barreiro/BH/MG;industrial_metalurgico;2.25;-20.004375;-44.0275968;Nominatim/OpenStreetMap;Belo Horizonte;MG;;Potencial Planta
+60619202000903;talvez;CTF_APP e 80km;43700000;BA;3913;Camaçari/BA;petroquimico;15.32;-12.7992662;-38.417414;Nominatim/OpenStreetMap;;;;Potencial Planta
+60619202005964;talvez;CTF_APP e 80km;92420360;RS;8589;Canoas/REFAP/RS;refino;1.11;-29.9216045;-51.1799525;Nominatim/OpenStreetMap;Canoas;RS;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+00331788003304;talvez;CTF_APP e 80km;81170200;PR;7535;Araucária/REPAR/PR;refino;22.09;-25.4295963;-49.2712724;Nominatim/OpenStreetMap;Curitiba;PR;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448013386;talvez;CTF_APP e 80km;36413170;MG;4359;Ouro Branco/MG;siderurgia;10.43;-20.5162771;-43.7956257;Nominatim/OpenStreetMap;Congonhas;MG;;Potencial Planta
+60619202003910;talvez;CTF_APP e 80km;13212240;SP;6619;Paulínia/REPLAN/SP;refino_petroquimico;57.43;-23.1887668;-46.884506;Nominatim/OpenStreetMap;Jundiaí;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+43843358002051;talvez;CTF_APP e 80km;12340901;SP;6589;Jacareí/SP;gases_industriais;6.42;-23.349538;-46.0050273;Nominatim/OpenStreetMap;Jacareí;SP;;Potencial Planta
+35820448000217;talvez;CTF_APP e 80km;27255430;RJ;5925;Volta Redonda/CSN/RJ;siderurgia;0.82;-22.5233139;-44.0960492;Nominatim/OpenStreetMap;Volta Redonda;RJ;;Potencial Planta
+00331788002677;talvez;80km;92702320;RS;8685;Canoas/REFAP/RS;refino;26.71;-30.1228131;-51.3160045;Nominatim/OpenStreetMap;Guaíba;RS;;Não Planta
+60619202001977;talvez;CTF_APP e 80km;38055000;MG;5401;Uberaba/MG;fertilizantes_quimico;2.8;-19.7456091;-47.9656734;Nominatim/OpenStreetMap;Uberaba;MG;;Potencial Planta
+60619202005700;talvez;CTF_APP;17034310;SP;6219;Paulínia/REPLAN/SP;refino_petroquimico;199.6;-22.3081517;-49.0272841;Nominatim/OpenStreetMap;Bauru;SP;;Não Planta
+60619202002191;talvez;CTF_APP;89804570;SC;8081;Triunfo/RS;petroquimico;332.77;-27.0939051;-52.6480302;Nominatim/OpenStreetMap;Chapecó;SC;;Não Planta
+35820448019660;talvez;CTF_APP e 80km;09154900;SP;7057;ABC/Capuava/SP;petroquimico_industrial;5.94;-23.6533509;-46.5279039;Nominatim/OpenStreetMap;Santo André;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Planta
+35820448019236;talvez;CTF_APP;79641300;MS;9165;Uberaba/MG;fertilizantes_quimico;409.34;-20.78765;-51.70338;BrasilAPI CEP v2;Três Lagoas;MS;;Não Planta
+00331788005005;talvez;CTF_APP;89810168;SC;8081;Triunfo/RS;petroquimico;335.16;-27.0656862;-52.6329355;Nominatim/OpenStreetMap;Chapecó;SC;;Não Planta
+35820448021567;talvez;CTF_APP;39205000;MG;4115;Barreiro/BH/MG;industrial_metalurgico;236.85;-18.2051533;-45.2484314;Nominatim/OpenStreetMap;Três Marias;MG;;Não Planta
+24380578006896;talvez;CTF_APP e 80km;61939120;CE;1585;Pecém/CE;porto_industrial;41.95;-3.8779438;-38.6247697;Nominatim/OpenStreetMap;Maracanaú;CE;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448022377;talvez;CTF_APP;36092901;MG;4733;Volta Redonda/CSN/RJ;siderurgia;119.66;-21.6420894;-43.4369601;Nominatim/OpenStreetMap;Juiz de Fora;MG;;Não Planta
+51403119000146;talvez;80km;42816140;BA;3413;Camaçari/BA;petroquimico;3.35;-12.6674855;-38.3148858;Nominatim/OpenStreetMap;Camaçari;BA;;Conceito de Planta
+35820448022539;talvez;CTF_APP;36106000;MG;4733;Volta Redonda/CSN/RJ;siderurgia;103.38;-21.7085611;-43.6199796;Nominatim/OpenStreetMap;Juiz de Fora;MG;;Não Planta
+55380948000101;talvez;80km;49015250;SE;3105;Laranjeiras/SE;fertilizantes_amonia;18.04;-10.9204804;-37.0529051;Nominatim/OpenStreetMap;Aracaju;SE;;Conceito de Planta
+00331788001190;talvez;80km;09380440;SP;6689;ABC/Capuava/SP;petroquimico_industrial;1.15;-23.6669527;-46.4616922;Nominatim/OpenStreetMap;Mauá;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+05471794000195;talvez;;;EX;9707;;;;;;;;;;Não Planta
+02605266000274;talvez;CTF_APP e 80km;11570000;SP;6371;Cubatão/SP;industrial_siderurgico;1.64;-23.8842077;-46.4213061;Nominatim/OpenStreetMap;Cubatão;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+05665483000167;talvez;;;EX;9707;;;;;;;;;;Não Planta
+05679553000136;talvez;;;EX;9707;;;;;;;;;;Não Planta
+24380578002041;talvez;CTF_APP e 80km;54335000;PE;2457;Suape/PE;porto_industrial;25.05;-8.1735122;-34.9413004;Nominatim/OpenStreetMap;Jaboatão dos Guararapes;PE;;Potencial Planta
+35820448016210;talvez;CTF_APP;75340000;GO;9389;Uberaba/MG;fertilizantes_quimico;337.72;-16.9671342;-49.22826;Nominatim/OpenStreetMap;Hidrolândia;GO;;Não Planta
+43843358000512;talvez;CTF_APP e 80km;25251745;RJ;5833;Duque de Caxias/REDUC/RJ;refino_petroquimico;12.34;-22.6096368;-43.285963;Nominatim/OpenStreetMap;Duque de Caxias;RJ;;Potencial Planta
+43843358001594;talvez;CTF_APP e 80km;13847176;SP;6715;Paulínia/REPLAN/SP;refino_petroquimico;46.72;-22.347079;-46.9461352;Nominatim/OpenStreetMap;Mogi Guaçu;SP;;Potencial Planta
+43843358002302;talvez;CTF_APP e 80km;09154100;SP;7057;ABC/Capuava/SP;petroquimico_industrial;5.94;-23.6533509;-46.5279039;Nominatim/OpenStreetMap;Santo André;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+74481011000177;talvez;CTF_APP;13690000;SP;6375;Paulínia/REPLAN/SP;refino_petroquimico;103.7;-21.9090404;-47.6203241;Nominatim/OpenStreetMap;Descalvado;SP;;Relação
+60619202001705;talvez;CTF_APP;36092030;MG;4733;Duque de Caxias/REDUC/RJ;refino_petroquimico;106.93;-21.7609533;-43.3501129;Nominatim/OpenStreetMap;Juiz de Fora;MG;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448014196;talvez;CTF_APP e 80km;11570900;SP;6371;Cubatão/SP;industrial_siderurgico;2.68;-23.895;-46.42528;BrasilAPI CEP v2;Cubatão;SP;;Não Planta
+24380578002980;talvez;CTF_APP e 80km;42816120;BA;3413;Camaçari/BA;petroquimico;4.56;-12.6554921;-38.3268711;Nominatim/OpenStreetMap;Camaçari;BA;;Potencial Planta
+60619202000229;talvez;CTF_APP e 80km;04247002;SP;7107;ABC/Capuava/SP;petroquimico_industrial;14.23;-23.6175022;-46.6017906;Nominatim/OpenStreetMap;São Paulo;SP;;Potencial Planta
+60619202002949;talvez;CTF_APP e 80km;27525598;RJ;5883;Volta Redonda/CSN/RJ;siderurgia;35.69;-22.4683626;-44.4463494;Nominatim/OpenStreetMap;Resende;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+60619202006693;talvez;CTF_APP e 80km;81460120;PR;7535;Araucária/REPAR/PR;refino;22.09;-25.4295963;-49.2712724;Nominatim/OpenStreetMap;Curitiba;PR;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448020838;talvez;CTF_APP e 80km;13412010;SP;6875;Paulínia/REPLAN/SP;refino_petroquimico;52.63;-22.6931657;-47.6496827;Nominatim/OpenStreetMap;Piracicaba;SP;;Potencial Planta
+35820448020919;talvez;80km;93212110;RS;8901;Canoas/REFAP/RS;refino;11.64;-29.8079034;-51.1705548;Nominatim/OpenStreetMap;Sapucaia do Sul;RS;;Não Planta
+35820448022881;talvez;;79586899;MS;9087;Uberaba/MG;fertilizantes_quimico;417.78;-19.7310751;-51.9307502;Nominatim/OpenStreetMap;Inocência;MS;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+00331788004106;talvez;CTF_APP;87055406;PR;7691;Araucária/REPAR/PR;refino;346.93;-23.4404239;-51.8933373;Nominatim/OpenStreetMap;Maringá;PR;;Não Planta
+00331788002081;talvez;CTF_APP e 80km;43813000;BA;3429;Mataripe/Candeias/BA;refino_petroquimico;4.85;-12.6693806;-38.5406462;Nominatim/OpenStreetMap;Candeias;BA;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+05470672000184;talvez;;;EX;9707;;;;;;;;;;Não Planta
+24380578004680;talvez;80km;61910000;CE;1585;Pecém/CE;porto_industrial;39.63;-3.8605124;-38.6363533;Nominatim/OpenStreetMap;Maracanaú;CE;;Não Planta
+35820448001299;talvez;CTF_APP e 80km;27933440;RJ;5847;Macaé/RJ;oleo_gas;23.25;-22.2828305;-41.9649091;Nominatim/OpenStreetMap;Macaé;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448003666;talvez;CTF_APP e 80km;35160291;MG;4625;Vale do Aço/MG;siderurgia;3.66;-19.4902958;-42.5617288;Nominatim/OpenStreetMap;Ipatinga;MG;;Potencial Planta
+35820448008110;talvez;CTF_APP e 80km;09961350;SP;6377;ABC/Capuava/SP;petroquimico_industrial;13.12;-23.7010771;-46.5907335;Nominatim/OpenStreetMap;Diadema;SP;;Potencial Planta
+60619202001110;talvez;80km;21040360;RJ;6001;Duque de Caxias/REDUC/RJ;refino_petroquimico;16.94;-22.8704028;-43.2468907;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Não Planta
+60619202003325;talvez;CTF_APP e 80km;29168066;ES;5699;Serra/Tubarão/ES;siderurgia_portuario;6.57;-20.1949035;-40.2486916;Nominatim/OpenStreetMap;Serra;ES;;Potencial Planta
+35820448001965;talvez;CTF_APP e 80km;29146797;ES;5625;Serra/Tubarão/ES;siderurgia_portuario;15.05;-20.3362211;-40.3779162;Nominatim/OpenStreetMap;Cariacica;ES;;Potencial Planta
+00331788002243;talvez;CTF_APP e 80km;12226311;SP;7099;Jacareí/SP;gases_industriais;15.46;-23.1867782;-45.8854538;Nominatim/OpenStreetMap;São José dos Campos;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+24380578004761;talvez;CTF_APP e 80km;50950000;PE;2531;Suape/PE;porto_industrial;35.72;-8.0771336;-34.9764661;Nominatim/OpenStreetMap;Recife;PE;;Potencial Planta
+67423152000682;talvez;CTF_APP e 80km;21040114;RJ;6001;Duque de Caxias/REDUC/RJ;refino_petroquimico;14.69;-22.8499709;-43.2477344;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Relação
+24380578003951;talvez;CTF_APP e 80km;57160000;AL;2793;Marechal Deodoro/AL;quimico_cloroquimico;0.19;-9.709715;-35.896731;Nominatim/OpenStreetMap;Marechal Deodoro;AL;;Potencial Planta
+43843358000199;talvez;80km;05001903;SP;7107;ABC/Capuava/SP;petroquimico_industrial;20.61;-23.5506507;-46.6333824;Nominatim/OpenStreetMap;São Paulo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+60619202003406;talvez;CTF_APP e 80km;21515000;RJ;6001;Duque de Caxias/REDUC/RJ;refino_petroquimico;15.76;-22.8355928;-43.3615707;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Potencial Planta
+08763149000134;talvez;80km;23570000;RJ;6001;Santa Cruz/Ternium/RJ;siderurgia;6.86;-22.8952259;-43.7398158;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Não Planta
+60619202002353;talvez;CTF_APP e 80km;27313191;RJ;5807;Volta Redonda/CSN/RJ;siderurgia;8.89;-22.5255741;-44.1905096;Nominatim/OpenStreetMap;Barra Mansa;RJ;;Potencial Planta
+24380578005733;talvez;CTF_APP;68390000;PA;591;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;633.93;-6.748975;-51.0788476;Nominatim/OpenStreetMap;Ourilândia do Norte;PA;;Não Planta
+35820448019155;talvez;80km;23570000;RJ;6001;Santa Cruz/Ternium/RJ;siderurgia;6.86;-22.8952259;-43.7398158;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Não Planta
+18487144000180;talvez;CTF_APP;88311528;SC;8161;Araucária/REPAR/PR;refino;164.45;-26.9046787;-48.6552979;Nominatim/OpenStreetMap;Itajaí;SC;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+43843358003619;talvez;CTF_APP;12521000;SP;6469;Jacareí/SP;gases_industriais;96.72;-22.8057839;-45.1908926;Nominatim/OpenStreetMap;Guaratinguetá;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Planta
+00331788009337;talvez;;38402810;MG;5403;Uberaba/MG;fertilizantes_quimico;98.68;-18.9188041;-48.2767837;Nominatim/OpenStreetMap;Uberlândia;MG;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448022296;talvez;CTF_APP;79180000;MS;9141;Uberaba/MG;fertilizantes_quimico;612.89;-20.4515262;-53.7604601;Nominatim/OpenStreetMap;;;;Não Planta
+24380578003285;talvez;80km;60310000;CE;1389;Pecém/CE;porto_industrial;34.85;-3.7205157;-38.5479325;Nominatim/OpenStreetMap;Fortaleza;CE;;Não Planta
+35820448016482;talvez;CTF_APP e 80km;83707746;PR;7435;Araucária/REPAR/PR;refino;0.14;-25.5861107;-49.4051209;Nominatim/OpenStreetMap;Araucária;PR;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448005952;talvez;CTF_APP;98005150;RS;8619;Triunfo/RS;petroquimico;254.91;-28.6451335;-53.6058388;Nominatim/OpenStreetMap;Cruz Alta;RS;;Não Planta
+35820448006924;talvez;CTF_APP e 80km;07210007;SP;6477;ABC/Capuava/SP;petroquimico_industrial;22.19;-23.4675941;-46.5277704;Nominatim/OpenStreetMap;Guarulhos;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+43843358001756;talvez;CTF_APP;14808165;SP;6163;Paulínia/REPLAN/SP;refino_petroquimico;145.4;-21.817472;-48.1521912;Nominatim/OpenStreetMap;Araraquara;SP;;Não Planta
+60619202000733;talvez;CTF_APP e 80km;25070235;RJ;5833;Duque de Caxias/REDUC/RJ;refino_petroquimico;8.64;-22.7896225;-43.309929;Nominatim/OpenStreetMap;Duque de Caxias;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+34597955000513;talvez;CTF_APP;65095170;MA;921;;;;;;;;;;Não Planta
+35820448009435;talvez;CTF_APP;14176503;SP;7135;Uberaba/MG;fertilizantes_quimico;154.72;-21.1375782;-47.9913741;Nominatim/OpenStreetMap;Sertãozinho;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+34597955000432;talvez;CTF_APP;69075155;AM;255;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1256.31;-3.1120984;-59.9449829;Nominatim/OpenStreetMap;Manaus;AM;;Não Planta
+43843358001918;talvez;CTF_APP;14210000;SP;6653;Paulínia/REPLAN/SP;refino_petroquimico;142.18;-21.5564685;-47.6910679;Nominatim/OpenStreetMap;;;;Não Planta
+35820448003070;talvez;CTF_APP e 80km;32010130;MG;4371;Barreiro/BH/MG;industrial_metalurgico;7.83;-19.9350668;-44.0644005;Nominatim/OpenStreetMap;Contagem;MG;;Potencial Planta
+60619202004801;talvez;CTF_APP e 80km;11573000;SP;6371;Cubatão/SP;industrial_siderurgico;1.64;-23.8842077;-46.4213061;Nominatim/OpenStreetMap;Cubatão;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+00331788001271;talvez;CTF_APP;14175350;SP;7135;Uberaba/MG;fertilizantes_quimico;154.72;-21.1375782;-47.9913741;Nominatim/OpenStreetMap;Sertãozinho;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+35820448016725;talvez;CTF_APP e 80km;25225030;RJ;5833;Duque de Caxias/REDUC/RJ;refino_petroquimico;8.64;-22.7896225;-43.309929;Nominatim/OpenStreetMap;Duque de Caxias;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+60619202004054;talvez;CTF_APP;18685745;SP;6637;Paulínia/REPLAN/SP;refino_petroquimico;171.42;-22.6029897;-48.8031367;Nominatim/OpenStreetMap;Lençóis Paulista;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Planta
+24380578006462;talvez;CTF_APP e 80km;55590000;PE;2443;Suape/PE;porto_industrial;12.03;-8.491482;-35.0149908;Nominatim/OpenStreetMap;;;;Potencial Planta
+17891872000190;talvez;CTF_APP e 80km;62674000;CE;1549;Pecém/CE;porto_industrial;1.84;-3.5486983;-38.8277285;Nominatim/OpenStreetMap;São Gonçalo do Amarante;CE;;Potencial Planta
+74481011000843;talvez;CTF_APP e 80km;92420360;RS;8589;Canoas/REFAP/RS;refino;1.11;-29.9216045;-51.1799525;Nominatim/OpenStreetMap;Canoas;RS;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+67423152001905;talvez;;75132135;GO;9221;Uberaba/MG;fertilizantes_quimico;394.42;-16.3332828;-48.9525756;Nominatim/OpenStreetMap;Anápolis;GO;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+00331788003053;talvez;CTF_APP;37701387;MG;5035;Paulínia/REPLAN/SP;refino_petroquimico;119.85;-21.786005;-46.5719158;Nominatim/OpenStreetMap;Poços de Caldas;MG;;Não Planta
+00331788004025;talvez;80km;27977335;RJ;5847;Macaé/RJ;oleo_gas;23.25;-22.2828305;-41.9649091;Nominatim/OpenStreetMap;Macaé;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+24380578002556;talvez;CTF_APP;59146480;RN;1779;Suape/PE;porto_industrial;279.84;-5.898888;-35.258666;Nominatim/OpenStreetMap;Parnamirim;RN;;Não Planta
+24380578004923;talvez;CTF_APP e 80km;61939120;CE;1585;Pecém/CE;porto_industrial;41.95;-3.8779438;-38.6247697;Nominatim/OpenStreetMap;Maracanaú;CE;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448016806;talvez;CTF_APP e 80km;11535200;SP;6371;Cubatão/SP;industrial_siderurgico;1.64;-23.8842077;-46.4213061;Nominatim/OpenStreetMap;Cubatão;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+43843358000865;talvez;CTF_APP e 80km;92703460;RS;8685;Canoas/REFAP/RS;refino;26.43;-30.1130731;-51.329442;Nominatim/OpenStreetMap;Guaíba;RS;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+00331788004297;talvez;CTF_APP e 80km;09154900;SP;7057;ABC/Capuava/SP;petroquimico_industrial;5.94;-23.6533509;-46.5279039;Nominatim/OpenStreetMap;Santo André;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+60619202006502;talvez;CTF_APP e 80km;23565000;RJ;6001;Santa Cruz/Ternium/RJ;siderurgia;5.34;-22.8890204;-43.7187523;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Potencial Planta
+67423152000410;talvez;80km;30664030;MG;4123;Barreiro/BH/MG;industrial_metalurgico;11.0;-19.92083;-43.93778;BrasilAPI CEP v2;Belo Horizonte;MG;;Relação
+67423152000925;talvez;CTF_APP e 80km;29161418;ES;5699;Serra/Tubarão/ES;siderurgia_portuario;14.74;-20.1252961;-40.3064477;Nominatim/OpenStreetMap;Serra;ES;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+72819618000199;talvez;CTF_APP e 80km;09852070;SP;7075;ABC/Capuava/SP;petroquimico_industrial;9.8;-23.7080345;-46.5506747;Nominatim/OpenStreetMap;São Bernardo do Campo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448010522;talvez;CTF_APP e 80km;12283510;SP;6271;Jacareí/SP;gases_industriais;34.86;-23.099204;-45.707645;Nominatim/OpenStreetMap;Caçapava;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+60619202005107;talvez;CTF_APP;89015400;SC;8047;Araucária/REPAR/PR;refino;150.81;-26.9025778;-49.0354651;Nominatim/OpenStreetMap;Blumenau;SC;;Não Planta
+00331788005501;talvez;CTF_APP e 80km;95720000;RS;8669;Triunfo/RS;petroquimico;70.01;-29.2562253;-51.5269167;Nominatim/OpenStreetMap;Garibaldi;RS;;Potencial Planta
+00331788006583;talvez;CTF_APP;97060485;RS;8841;Triunfo/RS;petroquimico;234.44;-29.6860512;-53.8069214;Nominatim/OpenStreetMap;Santa Maria;RS;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+00331788006664;talvez;CTF_APP e 80km;35450000;MG;4637;Ouro Branco/MG;siderurgia;31.18;-20.2660115;-43.8080355;Nominatim/OpenStreetMap;;;;Potencial Planta
+24380578006705;talvez;CTF_APP;42810340;BA;3413;;;;;;;;;;Não Planta
+00331788004610;talvez;CTF_APP e 80km;29168080;ES;5699;Serra/Tubarão/ES;siderurgia_portuario;8.47;-20.181763;-40.2336316;Nominatim/OpenStreetMap;Serra;ES;;Potencial Planta
+43843358003538;talvez;CTF_APP;88830000;SC;8219;Canoas/REFAP/RS;refino;236.14;-28.6577154;-49.2181468;Nominatim/OpenStreetMap;;;;Potencial Planta
+62505841000108;talvez;;65071745;MA;921;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;511.01;-2.4870062;-44.2458914;Nominatim/OpenStreetMap;São Luís;MA;;Conceito de Planta
+60619202001462;talvez;CTF_APP e 80km;61939120;CE;1585;Pecém/CE;porto_industrial;41.95;-3.8779438;-38.6247697;Nominatim/OpenStreetMap;Maracanaú;CE;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+00331788001867;talvez;CTF_APP e 80km;13148000;SP;6831;Paulínia/REPLAN/SP;refino_petroquimico;3.43;-22.7576689;-47.1287008;Nominatim/OpenStreetMap;Paulínia;SP;;Planta
+35820448018345;talvez;CTF_APP;88390000;SC;8041;Araucária/REPAR/PR;refino;136.85;-26.6338203;-48.6835001;Nominatim/OpenStreetMap;Barra Velha;SC;;Não Planta
+35820448000721;talvez;CTF_APP e 80km;25225170;RJ;5833;Duque de Caxias/REDUC/RJ;refino_petroquimico;8.64;-22.7896225;-43.309929;Nominatim/OpenStreetMap;Duque de Caxias;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+35820448004395;talvez;CTF_APP;35502287;MG;4445;Barreiro/BH/MG;industrial_metalurgico;87.42;-20.1247457;-44.8391674;Nominatim/OpenStreetMap;Divinópolis;MG;;Não Planta
+43843358000350;talvez;CTF_APP e 80km;08770030;SP;6713;ABC/Capuava/SP;petroquimico_industrial;31.02;-23.5213879;-46.2058244;Nominatim/OpenStreetMap;Mogi das Cruzes;SP;;Potencial Planta
+60619202004135;talvez;CTF_APP;86191345;PR;7471;Araucária/REPAR/PR;refino;319.18;-23.2782035;-51.2779583;Nominatim/OpenStreetMap;Cambé;PR;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+60619202004992;talvez;CTF_APP;74984323;GO;9227;Uberaba/MG;fertilizantes_quimico;353.2;-16.8226769;-49.2452546;Nominatim/OpenStreetMap;Aparecida de Goiânia;GO;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+67423152001220;talvez;CTF_APP;74993535;GO;9227;Uberaba/MG;fertilizantes_quimico;353.2;-16.8226769;-49.2452546;Nominatim/OpenStreetMap;Aparecida de Goiânia;GO;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+35820448004557;produz_h2;CTF_APP e 80km;35970000;MG;4107;João Monlevade/MG;siderurgia;36.03;-19.9452437;-43.4870298;Nominatim/OpenStreetMap;Barão de Cocais;MG;;Potencial Planta
+08892204000196;talvez;80km;20921392;RJ;6001;Duque de Caxias/REDUC/RJ;refino_petroquimico;20.14;-22.8957998;-43.2258396;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Sem Relação
+10911087000102;incerto;80km;13183660;SP;2951;Paulínia/REPLAN/SP;refino_petroquimico;14.92;-22.8458223;-47.2076997;Nominatim/OpenStreetMap;Hortolândia;SP;;Sem Relação
+12201621000112;talvez;80km;81650060;PR;7535;Araucária/REPAR/PR;refino;20.15;-25.4869771;-49.2377774;Nominatim/OpenStreetMap;Curitiba;PR;;Relação
+22290296000165;talvez;80km;29157025;ES;5625;Serra/Tubarão/ES;siderurgia_portuario;15.86;-20.263202;-40.416549;Nominatim/OpenStreetMap;Cariacica;ES;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+24539446000157;talvez;;;EX;9707;;;;;;;;;;Sem Relação
+11501268000123;incerto;;65911769;MA;803;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;463.17;-5.5040303;-47.4530375;Nominatim/OpenStreetMap;Imperatriz;MA;;Sem Relação
+26288918000171;incerto;;89245000;SC;8025;Araucária/REPAR/PR;refino;110.69;-26.3703324;-48.7210994;Nominatim/OpenStreetMap;Araquari;SC;;Sem Relação
+42315528000108;talvez;;59147325;RN;1779;Suape/PE;porto_industrial;278.14;-5.9153334;-35.2679913;Nominatim/OpenStreetMap;Parnamirim;RN;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+63634596000444;incerto;CTF_APP;68632000;PA;623;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;282.38;-3.7575266;-47.5009377;Nominatim/OpenStreetMap;Ulianópolis;PA;;Sem Relação
+52238156000109;incerto;80km;27197000;RJ;778;Volta Redonda/CSN/RJ;siderurgia;10.53;-22.5187446;-44.0015831;Nominatim/OpenStreetMap;;;;Sem Relação
+52315566000106;talvez;80km;30170008;MG;4123;Barreiro/BH/MG;industrial_metalurgico;9.18;-19.9325779;-43.9498815;Nominatim/OpenStreetMap;Belo Horizonte;MG;;Conceito de Planta
+57155559000108;incerto;;58069263;PB;2051;Suape/PE;porto_industrial;142.19;-7.1215981;-34.882028;Nominatim/OpenStreetMap;João Pessoa;PB;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+55482177000325;talvez;80km;60875010;CE;1389;Pecém/CE;porto_industrial;41.48;-3.7932167;-38.5280359;Nominatim/OpenStreetMap;Fortaleza;CE;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+05914165000192;talvez;CTF_APP;69008445;AM;255;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1252.68;-3.1054405;-59.9128797;Nominatim/OpenStreetMap;Manaus;AM;;Sem Relação
+60619202002787;talvez;80km;24800001;RJ;5837;Duque de Caxias/REDUC/RJ;refino_petroquimico;42.89;-22.7496231;-42.8557428;Nominatim/OpenStreetMap;Itaboraí;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Não Planta
+04075268000143;talvez;80km;03901010;SP;7107;ABC/Capuava/SP;petroquimico_industrial;20.61;-23.5506507;-46.6333824;Nominatim/OpenStreetMap;São Paulo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+43117399000289;incerto;CTF_APP e 80km;09380440;SP;6689;ABC/Capuava/SP;petroquimico_industrial;1.15;-23.6669527;-46.4616922;Nominatim/OpenStreetMap;Mauá;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+13243140000132;talvez;CTF_APP;14781160;SP;6209;Uberaba/MG;fertilizantes_quimico;111.22;-20.5531437;-48.5697509;Nominatim/OpenStreetMap;Barretos;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+09043891000480;talvez;80km;54503410;PE;2357;Suape/PE;porto_industrial;14.96;-8.2838945;-35.0320984;Nominatim/OpenStreetMap;Cabo de Santo Agostinho;PE;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+55246769000186;talvez;;64213901;PI;1153;Pecém/CE;porto_industrial;334.76;-2.9542422;-41.7670352;Nominatim/OpenStreetMap;Parnaíba;PI;;Não Planta
+54001996000189;talvez;80km;60170002;CE;1389;Pecém/CE;porto_industrial;40.57;-3.7410408;-38.4999337;Nominatim/OpenStreetMap;Fortaleza;CE;;Conceito de Planta
+05329135000119;talvez;;58011040;PB;2051;Suape/PE;porto_industrial;141.23;-7.1299181;-34.8877943;Nominatim/OpenStreetMap;João Pessoa;PB;;Sem Relação
+03819835000166;talvez;;76812014;RO;3;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1855.96;-8.7494525;-63.8735438;Nominatim/OpenStreetMap;Porto Velho;RO;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+73658254000337;talvez;80km;22270000;RJ;6001;Duque de Caxias/REDUC/RJ;refino_petroquimico;27.3;-22.9524082;-43.1871313;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Sem Relação
+63634596000363;incerto;CTF_APP e 80km;66635110;PA;427;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;38.6;-1.3637926;-48.4495395;Nominatim/OpenStreetMap;Belém;PA;;Sem Relação
+05740526000121;talvez;;;EX;9707;;;;;;;;;;Sem Relação
+04498412000154;incerto;CTF_APP e 80km;12072370;SP;7183;Jacareí/SP;gases_industriais;51.27;-23.031448;-45.5612792;Nominatim/OpenStreetMap;Taubaté;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+13143803000147;talvez;;72427010;DF;9701;Uberaba/MG;fertilizantes_quimico;439.6;-15.7939869;-47.8828;Nominatim/OpenStreetMap;Brasília;DF;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+02555047000228;produz_h2;CTF_APP e 80km;83604712;PR;7481;Araucária/REPAR/PR;refino;18.75;-25.4597726;-49.5270851;Nominatim/OpenStreetMap;Campo Largo;PR;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+17415984000174;talvez;80km;13273202;SP;7225;Paulínia/REPLAN/SP;refino_petroquimico;30.65;-22.97056;-46.99583;Nominatim/OpenStreetMap;Valinhos;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+08272654000186;talvez;80km;35660970;MG;4941;Barreiro/BH/MG;industrial_metalurgico;63.55;-19.8598634;-44.6074284;Nominatim/OpenStreetMap;Pará de Minas;MG;;Sem Relação
+18835198000199;talvez;80km;07231060;SP;6477;ABC/Capuava/SP;petroquimico_industrial;22.19;-23.4675941;-46.5277704;Nominatim/OpenStreetMap;Guarulhos;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+36014591000101;talvez;80km;29197613;ES;5611;Serra/Tubarão/ES;siderurgia_portuario;47.54;-19.8245218;-40.2735025;Nominatim/OpenStreetMap;Aracruz;ES;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+39230647000145;incerto;80km;27933377;RJ;5847;Macaé/RJ;oleo_gas;23.25;-22.2828305;-41.9649091;Nominatim/OpenStreetMap;Macaé;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+47050403000109;talvez;CTF_APP e 80km;09060650;SP;7057;ABC/Capuava/SP;petroquimico_industrial;8.16;-23.661327;-46.5501199;Nominatim/OpenStreetMap;Santo André;SP;;Sem Relação
+48754769000121;incerto;80km;02281110;SP;7107;ABC/Capuava/SP;petroquimico_industrial;20.61;-23.5506507;-46.6333824;Nominatim/OpenStreetMap;São Paulo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+09043891000219;talvez;CTF_APP e 80km;55616899;PE;2627;Suape/PE;porto_industrial;48.0;-8.1209019;-35.2944858;Nominatim/OpenStreetMap;Vitória de Santo Antão;PE;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+59946751000148;incerto;;13630010;SP;6887;Paulínia/REPLAN/SP;refino_petroquimico;86.47;-21.9980468;-47.4280861;Nominatim/OpenStreetMap;Pirassununga;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+22298504000253;talvez;;68902863;AP;605;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;311.28;0.020364;-51.0685164;Nominatim/OpenStreetMap;Macapá;AP;;Sem Relação
+01920296000121;incerto;;78895300;MT;9907;Uberaba/MG;fertilizantes_quimico;1153.9;-12.5444887;-55.7233972;Nominatim/OpenStreetMap;Sorriso;MT;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+66358979000182;talvez;80km;34000001;MG;4895;Barreiro/BH/MG;industrial_metalurgico;17.55;-19.9854089;-43.8470691;Nominatim/OpenStreetMap;Nova Lima;MG;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+60830296001686;talvez;;95030370;RS;8599;Triunfo/RS;petroquimico;82.02;-29.1532319;-51.2069972;Nominatim/OpenStreetMap;Caxias do Sul;RS;;Não Planta
+24380578006209;produz_h2;CTF_APP e 80km;55590000;PE;2443;Suape/PE;porto_industrial;12.03;-8.491482;-35.0149908;Nominatim/OpenStreetMap;;;;Planta
+02084922000230;talvez;80km;68795000;PA;429;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;58.79;-1.3555577;-48.252235;Nominatim/OpenStreetMap;Benevides;PA;;Sem Relação
+08816634000129;incerto;CTF_APP e 80km;02110000;SP;7107;ABC/Capuava/SP;petroquimico_industrial;20.61;-23.5506507;-46.6333824;Nominatim/OpenStreetMap;São Paulo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+06070048000233;talvez;CTF_APP;13571390;SP;7079;Paulínia/REPLAN/SP;refino_petroquimico;107.38;-22.0411316;-47.8721478;BrasilAPI CEP v2;São Carlos;SP;;Sem Relação
+57894936000120;talvez;CTF_APP e 80km;32113235;MG;4371;Barreiro/BH/MG;industrial_metalurgico;12.5;-19.8759391;-44.0239292;Nominatim/OpenStreetMap;Contagem;MG;;Sem Relação
+16685196000305;talvez;CTF_APP e 80km;13505620;SP;6979;Paulínia/REPLAN/SP;refino_petroquimico;58.84;-22.3654054;-47.5552963;Nominatim/OpenStreetMap;Rio Claro;SP;;Relação
+59968994000187;incerto;;13630010;SP;6887;Paulínia/REPLAN/SP;refino_petroquimico;86.47;-21.9980468;-47.4280861;Nominatim/OpenStreetMap;Pirassununga;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+57079083000173;talvez;80km;49010660;SE;3105;Laranjeiras/SE;fertilizantes_amonia;15.9;-10.9162061;-37.0774655;Nominatim/OpenStreetMap;Aracaju;SE;Coordenada aproximada pelo município, não pelo CEP exato.;Conceito de Planta
+61898569000100;talvez;80km;60833155;CE;1389;Pecém/CE;porto_industrial;45.77;-3.7939509;-38.4792434;Nominatim/OpenStreetMap;Fortaleza;CE;;Relação
+62531983000220;incerto;80km;66010080;PA;427;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;29.57;-1.4522544;-48.4966867;Nominatim/OpenStreetMap;Belém;PA;;Sem Relação
+02706738000102;produz_h2;80km;43700000;BA;3913;Camaçari/BA;petroquimico;15.32;-12.7992662;-38.417414;Nominatim/OpenStreetMap;;;;Relação
+04394125000285;incerto;80km;22640100;RJ;6001;Duque de Caxias/REDUC/RJ;refino_petroquimico;32.05;-23.0049481;-43.3191522;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Sem Relação
+09349221000144;talvez;CTF_APP e 80km;23570000;RJ;6001;Santa Cruz/Ternium/RJ;siderurgia;6.86;-22.8952259;-43.7398158;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Não Planta
+10636239000106;talvez;80km;13424480;SP;6875;Paulínia/REPLAN/SP;refino_petroquimico;52.44;-22.725165;-47.6493269;Nominatim/OpenStreetMap;Piracicaba;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+11336057000182;talvez;;14874002;SP;6587;Uberaba/MG;fertilizantes_quimico;172.12;-21.252037;-48.325223;Nominatim/OpenStreetMap;Jaboticabal;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+66358979000263;talvez;CTF_APP e 80km;32400001;MG;4595;Barreiro/BH/MG;industrial_metalurgico;6.48;-20.0306118;-44.0572776;Nominatim/OpenStreetMap;Ibirité;MG;;Relação
+66358979000344;talvez;80km;13185000;SP;2951;Paulínia/REPLAN/SP;refino_petroquimico;16.93;-22.8620175;-47.2164219;Nominatim/OpenStreetMap;Hortolândia;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+51033340000150;incerto;CTF_APP e 80km;02283000;SP;7107;ABC/Capuava/SP;petroquimico_industrial;23.0;-23.4720624;-46.5642892;Nominatim/OpenStreetMap;São Paulo;SP;;Sem Relação
+54860514000146;incerto;80km;03707000;SP;7107;ABC/Capuava/SP;petroquimico_industrial;20.61;-23.5506507;-46.6333824;Nominatim/OpenStreetMap;São Paulo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+43311032000200;incerto;80km;01014907;SP;7107;Cubatão/SP;industrial_siderurgico;40.1;-23.8344593;-46.820925;Nominatim/OpenStreetMap;São Paulo;SP;;Não Planta
+16685196000488;talvez;;75911046;GO;9571;Uberaba/MG;fertilizantes_quimico;381.68;-17.7921255;-50.9191219;Nominatim/OpenStreetMap;Rio Verde;GO;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+63220338000179;talvez;;89620000;SC;8069;Araucária/REPAR/PR;refino;270.49;-27.3962904;-51.2224397;Nominatim/OpenStreetMap;Campos Novos;SC;;Sem Relação
+63293280000193;incerto;80km;01010000;SP;7107;ABC/Capuava/SP;petroquimico_industrial;9.53;-23.7116648;-46.5446308;Nominatim/OpenStreetMap;São Paulo;SP;;Sem Relação
+64367266000150;produz_h2;80km;29140075;ES;5625;Serra/Tubarão/ES;siderurgia_portuario;13.56;-20.3395742;-40.355457;Nominatim/OpenStreetMap;Cariacica;ES;;Sem Relação
+01812143000160;incerto;;98805675;RS;8853;Triunfo/RS;petroquimico;330.02;-28.3000481;-54.2669971;Nominatim/OpenStreetMap;Santo Ângelo;RS;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+63634596000100;incerto;CTF_APP;69058830;AM;255;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1264.35;-3.0580351;-60.0252532;Nominatim/OpenStreetMap;Manaus;AM;;Sem Relação
+43843358002213;produz_h2;CTF_APP e 80km;81260230;PR;7535;Araucária/REPAR/PR;refino;22.09;-25.4295963;-49.2712724;Nominatim/OpenStreetMap;Curitiba;PR;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+10365778000239;talvez;;75340000;GO;9389;Uberaba/MG;fertilizantes_quimico;337.72;-16.9671342;-49.22826;Nominatim/OpenStreetMap;Hidrolândia;GO;;Sem Relação
+14767386000176;talvez;CTF_APP e 80km;55840000;PE;2469;Suape/PE;porto_industrial;27.55;-8.1502694;-34.9599289;Nominatim/OpenStreetMap;Lagoa do Itaenga;PE;;Sem Relação
+13788120001038;talvez;CTF_APP e 80km;42816140;BA;3413;Camaçari/BA;petroquimico;3.35;-12.6674855;-38.3148858;Nominatim/OpenStreetMap;Camaçari;BA;;Planta
+23376993000104;talvez;80km;27940290;RJ;5847;Macaé/RJ;oleo_gas;23.25;-22.2828305;-41.9649091;Nominatim/OpenStreetMap;Macaé;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+42280290000114;talvez;80km;01406200;SP;7107;ABC/Capuava/SP;petroquimico_industrial;22.44;-23.5763345;-46.6704757;Nominatim/OpenStreetMap;São Paulo;SP;;Sem Relação
+39795095000112;talvez;CTF_APP;19220000;SP;6745;Araucária/REPAR/PR;refino;413.98;-22.40722;-51.52444;BrasilAPI CEP v2;Narandiba;SP;;Conceito de Planta
+40667406000147;produz_h2;80km;01318903;SP;7107;ABC/Capuava/SP;petroquimico_industrial;20.9;-23.5639335;-46.6463243;Nominatim/OpenStreetMap;São Paulo;SP;;Conceito de Planta
+37208123000122;talvez;;69640000;AM;9847;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;2371.76;-4.2247254;-69.9362202;Nominatim/OpenStreetMap;Tabatinga;AM;;Sem Relação
+23376993000287;incerto;80km;27932105;RJ;5847;Macaé/RJ;oleo_gas;23.25;-22.2828305;-41.9649091;Nominatim/OpenStreetMap;Macaé;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+44605617000106;talvez;;88020010;SC;8105;Araucária/REPAR/PR;refino;238.83;-27.5929466;-48.5453144;Nominatim/OpenStreetMap;Florianópolis;SC;;Sem Relação
+46541567000176;talvez;80km;67030180;PA;415;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;46.33;-1.3624268;-48.3711845;Nominatim/OpenStreetMap;Ananindeua;PA;;Relação
+48195800000131;talvez;80km;30170008;MG;4123;Barreiro/BH/MG;industrial_metalurgico;9.18;-19.9325779;-43.9498815;Nominatim/OpenStreetMap;Belo Horizonte;MG;;Não Planta
+27515154002116;talvez;80km;42816140;BA;3413;Camaçari/BA;petroquimico;3.35;-12.6674855;-38.3148858;Nominatim/OpenStreetMap;Camaçari;BA;;Conceito de Planta
+09043891000308;talvez;;29918899;ES;5663;Serra/Tubarão/ES;siderurgia_portuario;99.32;-19.3796775;-40.0610087;Nominatim/OpenStreetMap;Linhares;ES;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+47847216000150;talvez;80km;60170021;CE;1389;Pecém/CE;porto_industrial;40.66;-3.7405105;-38.498623;Nominatim/OpenStreetMap;Fortaleza;CE;;Sem Relação
+54066651000103;talvez;80km;80540400;PR;7535;Araucária/REPAR/PR;refino;24.82;-25.4088033;-49.2566605;Nominatim/OpenStreetMap;Curitiba;PR;;Sem Relação
+54200653000143;talvez;;;EX;9707;;;;;;;;;;Não Planta
+61047369000144;talvez;80km;08022310;SP;7107;ABC/Capuava/SP;petroquimico_industrial;20.61;-23.5506507;-46.6333824;Nominatim/OpenStreetMap;São Paulo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+02498631000108;talvez;;18105008;SP;7145;Paulínia/REPLAN/SP;refino_petroquimico;80.78;-23.4163575;-47.3904608;Nominatim/OpenStreetMap;Sorocaba;SP;;Sem Relação
+94015757000100;talvez;;99718000;RS;1154;Triunfo/RS;petroquimico;261.56;-27.7034385;-52.4220174;Nominatim/OpenStreetMap;Paulo Bento;RS;;Sem Relação
+19259496000140;incerto;CTF_APP;89620000;SC;8069;Araucária/REPAR/PR;refino;270.49;-27.3962904;-51.2224397;Nominatim/OpenStreetMap;Campos Novos;SC;;Sem Relação
+05329135000380;talvez;80km;57100000;AL;2853;Marechal Deodoro/AL;quimico_cloroquimico;26.53;-9.477829;-35.839435;Nominatim/OpenStreetMap;Rio Largo;AL;;Sem Relação
+12520836000104;talvez;;78149323;MT;9167;Uberaba/MG;fertilizantes_quimico;980.17;-15.645816;-56.132218;Nominatim/OpenStreetMap;Várzea Grande;MT;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+19917881000219;talvez;CTF_APP;69089035;AM;255;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1253.87;-3.0867688;-59.9262691;Nominatim/OpenStreetMap;Manaus;AM;;Sem Relação
+07312248000307;talvez;CTF_APP;69075010;AM;255;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1258.12;-3.1100981;-59.9617309;Nominatim/OpenStreetMap;Manaus;AM;;Sem Relação
+29495341000167;talvez;;18170000;SP;6857;ABC/Capuava/SP;petroquimico_industrial;96.97;-23.7268115;-47.4195897;Nominatim/OpenStreetMap;;;;Sem Relação
+25975554000135;talvez;CTF_APP e 80km;60861118;CE;1389;Pecém/CE;porto_industrial;41.92;-3.799907;-38.5285643;Nominatim/OpenStreetMap;Fortaleza;CE;;Sem Relação
+36231310000164;talvez;80km;06315230;SP;6313;ABC/Capuava/SP;petroquimico_industrial;40.71;-23.5234673;-46.8406808;Nominatim/OpenStreetMap;Carapicuíba;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+41534826000118;produz_h2;80km;83325030;PR;5453;Araucária/REPAR/PR;refino;28.86;-25.4136872;-49.1913809;Nominatim/OpenStreetMap;Pinhais;PR;;Sem Relação
+44254786000149;talvez;;71225000;DF;9701;Uberaba/MG;fertilizantes_quimico;439.6;-15.7939869;-47.8828;Nominatim/OpenStreetMap;Brasília;DF;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+04888219000200;talvez;CTF_APP;29918899;ES;5663;Serra/Tubarão/ES;siderurgia_portuario;99.32;-19.3796775;-40.0610087;Nominatim/OpenStreetMap;Linhares;ES;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+55794907000161;incerto;80km;60055170;CE;1389;Pecém/CE;porto_industrial;37.85;-3.7340625;-38.5244943;Nominatim/OpenStreetMap;Fortaleza;CE;;Relação
+59632999000134;incerto;80km;27325001;RJ;5807;Volta Redonda/CSN/RJ;siderurgia;5.54;-22.5418377;-44.1539721;Nominatim/OpenStreetMap;Barra Mansa;RJ;;Sem Relação
+00941837000135;talvez;;76982156;RO;13;Uberaba/MG;fertilizantes_quimico;1517.53;-12.7368536;-60.1465555;Nominatim/OpenStreetMap;Vilhena;RO;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+07654168000160;talvez;;77060840;TO;9733;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;961.82;-10.1837852;-48.3336423;Nominatim/OpenStreetMap;Palmas;TO;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+22298504000172;talvez;CTF_APP;69019400;AM;255;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1261.59;-2.9469863;-60.0141184;Nominatim/OpenStreetMap;Manaus;AM;;Relação
+14444932000138;talvez;CTF_APP e 80km;12072340;SP;7183;Jacareí/SP;gases_industriais;58.23;-22.9888304;-45.5109882;Nominatim/OpenStreetMap;Taubaté;SP;;Relação
+29171025000130;talvez;;69043210;AM;255;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1265.97;-3.074203;-60.0378137;Nominatim/OpenStreetMap;Manaus;AM;;Sem Relação
+34758163000150;incerto;80km;24868352;RJ;5837;Duque de Caxias/REDUC/RJ;refino_petroquimico;42.89;-22.7496231;-42.8557428;Nominatim/OpenStreetMap;Itaboraí;RJ;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+35694639000107;incerto;;78099899;MT;9067;Uberaba/MG;fertilizantes_quimico;979.62;-15.5986686;-56.0991301;Nominatim/OpenStreetMap;Cuiabá;MT;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+39505049000131;talvez;CTF_APP;77823762;TO;9241;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;631.09;-7.1936574;-48.2064645;Nominatim/OpenStreetMap;Araguaína;TO;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+42009640000102;produz_h2;;72901485;GO;9677;Uberaba/MG;fertilizantes_quimico;425.3;-15.9361706;-48.2826074;Nominatim/OpenStreetMap;Santo Antônio do Descoberto;GO;;Sem Relação
+43311032000110;talvez;CTF_APP e 80km;01014907;SP;7107;Cubatão/SP;industrial_siderurgico;40.1;-23.8344593;-46.820925;Nominatim/OpenStreetMap;São Paulo;SP;;Conceito de Planta
+33626638000191;talvez;CTF_APP;68514500;PA;483;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;424.65;-5.3462821;-49.1007401;Nominatim/OpenStreetMap;Marabá;PA;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+47247409000170;produz_h2;;;EX;9707;;;;;;;;;;Não Planta
+48195548000160;talvez;80km;30170008;MG;4123;Barreiro/BH/MG;industrial_metalurgico;9.18;-19.9325779;-43.9498815;Nominatim/OpenStreetMap;Belo Horizonte;MG;;Não Planta
+48969993000130;talvez;;74350740;GO;9373;Uberaba/MG;fertilizantes_quimico;368.11;-16.680882;-49.2532691;Nominatim/OpenStreetMap;Goiânia;GO;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+40667406000490;produz_h2;;76380290;GO;9371;Uberaba/MG;fertilizantes_quimico;508.71;-15.3118269;-49.1162001;Nominatim/OpenStreetMap;Goianésia;GO;Coordenada aproximada pelo município, não pelo CEP exato.;Conceito de Planta
+53145723000145;talvez;CTF_APP;17342634;SP;6205;Paulínia/REPLAN/SP;refino_petroquimico;148.14;-22.4708948;-48.5539168;Nominatim/OpenStreetMap;Barra Bonita;SP;;Sem Relação
+48702159000265;talvez;;59146460;RN;1779;Suape/PE;porto_industrial;279.69;-5.9000294;-35.2575464;Nominatim/OpenStreetMap;Parnamirim;RN;;Sem Relação
+64081687000110;produz_h2;;;EX;9707;;;;;;;;;;Sem Relação
+01666621000171;incerto;CTF_APP;88702504;SC;8367;Canoas/REFAP/RS;refino;261.74;-28.4989017;-49.0261737;Nominatim/OpenStreetMap;Tubarão;SC;;Relação
+02084922000150;talvez;CTF_APP;69089050;AM;255;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;1255.65;-3.094538;-59.9413974;Nominatim/OpenStreetMap;Manaus;AM;;Sem Relação
+35820448015400;produz_h2;CTF_APP e 80km;32605608;MG;4133;Barreiro/BH/MG;industrial_metalurgico;20.11;-19.9703184;-44.206495;Nominatim/OpenStreetMap;Betim;MG;Coordenada aproximada pelo município, não pelo CEP exato.;Potencial Planta
+07086661000120;talvez;CTF_APP;16058500;SP;6155;Uberaba/MG;fertilizantes_quimico;306.93;-21.207992;-50.4390225;Nominatim/OpenStreetMap;Araçatuba;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+14850457000108;talvez;80km;43721760;BA;3913;Camaçari/BA;petroquimico;13.25;-12.7867839;-38.4030365;Nominatim/OpenStreetMap;Simões Filho;BA;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+09446066000184;talvez;80km;13148109;SP;6831;Paulínia/REPLAN/SP;refino_petroquimico;5.19;-22.7744447;-47.1329458;Nominatim/OpenStreetMap;Paulínia;SP;;Sem Relação
+11573041000193;talvez;;58884000;PB;1987;Pecém/CE;porto_industrial;331.97;-6.340625;-37.746967;Nominatim/OpenStreetMap;Catolé do Rocha;PB;;Sem Relação
+33291611000195;talvez;;;EX;9707;;;;;;;;;;Sem Relação
+49596047000159;talvez;80km;60192200;CE;1389;Pecém/CE;porto_industrial;41.86;-3.7444392;-38.4883709;Nominatim/OpenStreetMap;Fortaleza;CE;;Conceito de Planta
+66358979000425;talvez;CTF_APP;39402194;MG;4865;Vale do Aço/MG;siderurgia;333.82;-16.7363442;-43.8462404;Nominatim/OpenStreetMap;Montes Claros;MG;;Sem Relação
+64025306000185;talvez;80km;67120136;PA;415;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;41.64;-1.3763564;-48.4113953;Nominatim/OpenStreetMap;Ananindeua;PA;;Relação
+11990559000122;produz_h2;;99010101;RS;8785;Triunfo/RS;petroquimico;205.19;-28.2545635;-52.3996529;Nominatim/OpenStreetMap;Passo Fundo;RS;;Sem Relação
+16685196000135;talvez;CTF_APP;75536110;GO;9425;Uberaba/MG;fertilizantes_quimico;206.53;-18.3950345;-49.2866487;Nominatim/OpenStreetMap;Itumbiara;GO;;Relação
+24791273000160;incerto;80km;09664000;SP;7075;ABC/Capuava/SP;petroquimico_industrial;14.16;-23.6600532;-46.6090274;Nominatim/OpenStreetMap;São Bernardo do Campo;SP;;Sem Relação
+24138700000105;talvez;80km;67120136;PA;415;Barcarena/Vila do Conde/PA;alumina_aluminio_portuario;41.64;-1.3763564;-48.4113953;Nominatim/OpenStreetMap;Ananindeua;PA;;Relação
+15836613000130;incerto;CTF_APP e 80km;04213002;SP;7107;ABC/Capuava/SP;petroquimico_industrial;14.91;-23.5922661;-46.5963044;Nominatim/OpenStreetMap;São Paulo;SP;;Sem Relação
+25336013000167;talvez;80km;32689350;MG;4133;Barreiro/BH/MG;industrial_metalurgico;20.11;-19.9703184;-44.206495;Nominatim/OpenStreetMap;Betim;MG;Coordenada aproximada pelo município, não pelo CEP exato.;Relação
+34867665000119;incerto;80km;03707000;SP;7107;ABC/Capuava/SP;petroquimico_industrial;20.61;-23.5506507;-46.6333824;Nominatim/OpenStreetMap;São Paulo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+46627517000106;incerto;;89245000;SC;8025;Araucária/REPAR/PR;refino;110.69;-26.3703324;-48.7210994;Nominatim/OpenStreetMap;Araquari;SC;;Sem Relação
+04888219000391;talvez;80km;55616899;PE;2627;Suape/PE;porto_industrial;48.0;-8.1209019;-35.2944858;Nominatim/OpenStreetMap;Vitória de Santo Antão;PE;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+01327288000257;talvez;80km;03707000;SP;7107;ABC/Capuava/SP;petroquimico_industrial;20.61;-23.5506507;-46.6333824;Nominatim/OpenStreetMap;São Paulo;SP;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+57828315000149;talvez;;72649715;DF;9701;Uberaba/MG;fertilizantes_quimico;439.6;-15.7939869;-47.8828;Nominatim/OpenStreetMap;Brasília;DF;Coordenada aproximada pelo município, não pelo CEP exato.;Sem Relação
+59762931000170;talvez;80km;22640904;RJ;6001;Santa Cruz/Ternium/RJ;siderurgia;31.68;-23.0005229;-43.3814715;Nominatim/OpenStreetMap;Rio de Janeiro;RJ;;Relação
+61790750000107;incerto;80km;95680012;RS;8585;Canoas/REFAP/RS;refino;71.07;-29.359023;-50.8142323;Nominatim/OpenStreetMap;Canela;RS;;Sem Relação
+55482177000244;incerto;;59146480;RN;1779;Suape/PE;porto_industrial;279.84;-5.898888;-35.258666;Nominatim/OpenStreetMap;Parnamirim;RN;;Sem Relação
+74450842000181;incerto;80km;13835000;SP;6345;Paulínia/REPLAN/SP;refino_petroquimico;43.86;-22.3348224;-47.1726721;Nominatim/OpenStreetMap;;;;Sem Relação
