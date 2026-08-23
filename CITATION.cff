@@ -6,6 +6,9 @@ authors:
   - family-names: "Vilaça Júnior"
     given-names: "Fábio Campos Ferreira"
     affiliation: "Universidade Federal de Goiás"
+  - family-names: "Silva Neto"
+    given-names: "Waldemiro Alcântara da"
+    affiliation: "Universidade Federal de Goiás"
 version: 1.0.0
 date-released: 2026-08-22
 repository-code: "https://github.com/VilacaJunior/Mapeamento-H2-Brasil"
